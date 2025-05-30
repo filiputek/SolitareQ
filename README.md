@@ -1,4 +1,5 @@
-
+# SolitareQ
+Solitare. Why Q? I have no idea.
 ## requirements
 Python installed (from https://www.python.org/downloads/)
 <br>
