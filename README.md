@@ -16,7 +16,7 @@ Press enter to stare playing.
 All rules are explained in game after using commands "help", "help rules" and "help [command name]".
 
 ## project documentaion
-purpose of every function is explained in code in comments
+purpose of every function is explained in code in comments<br>
 Purpose of every .py file: 
     <br>
     * main.py - the main progrem of the game. It calls commands from another programs and  executes commands given by user 
@@ -41,11 +41,11 @@ Purposes of some other files:
 
 <br>
 <br>
-when naming things in my project, I sticked to the following case convention:
-    variable, function and method names: camelCase
-    constant names: ALL_CAPS_AND_UNDERSCORES_CASE (I don't know how is it called)
-    class names: PascalCase
-    file names: snake_case
+when naming things in my project, I sticked to the following case convention:<br>
+    variable, function and method names: camelCase<br>
+    constant names: ALL_CAPS_AND_UNDERSCORES_CASE (I don't know how is it called)<br>
+    class names: PascalCase<br>
+    file names: snake_case<br>
 
 
 # 
